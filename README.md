@@ -1,4 +1,4 @@
-# Sales-pivot
+# Sales-pivot (Data Transformation)
 In this project, we have an excel file with the pivot table. Pivot table is very popular in the financial scope, so we should learn how we should cope with these tables. This is our complicated data :-(
 
 ![Screenshot 2023-03-06 at 19 45 40](https://user-images.githubusercontent.com/65550422/223202723-ad4c6075-1054-4f93-ac5c-c69b604f0c7e.png)
